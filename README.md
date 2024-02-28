@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Haneen Hamed</h1>
+<h1 align="center">Hi 👋, I'm Haneen Hamed AL-Mabadi</h1>
 <h3 align="center">Artificial intelligence engineer</h3>
 
 - 🌱 I’m currently learning **Deep learning**
